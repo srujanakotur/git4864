@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Helloo im from c sharp");
             Console.WriteLine("Helloo jenkins");
+            Console.WriteLine("changed message");
             Console.Read();
         }
     }
